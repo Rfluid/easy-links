@@ -1,4 +1,4 @@
-# 🌐 Ruy Vieira's Linktree
+# 🌐 Ruy Vieira's Easy Links
 
 This is a personalized **Linktree-style portfolio page** built using HTML, CSS, and minimal JavaScript. It serves as a central hub to showcase my projects, GitHub profiles, and professional links.
 
