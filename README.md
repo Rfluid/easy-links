@@ -1,66 +1,68 @@
-<h1 align="center">🌲 Linktree</h1>
-<h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
+# 🌐 Ruy Vieira's Linktree
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/johnggli/linktree?color=04D361&labelColor=000000">
-  
-  <a href="https://www.linkedin.com/in/johnggli/">
-    <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=John%20Emerson&color=04D361&labelColor=000000">
-  </a>
-  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnggli/linktree?color=04D361&labelColor=000000">
-  
-  <a href="https://github.com/johnggli/linktree/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnggli/linktree?color=04D361&labelColor=000000">
-  </a>
-</p>
+This is a personalized **Linktree-style portfolio page** built using HTML, CSS, and minimal JavaScript. It serves as a central hub to showcase my projects, GitHub profiles, and professional links.
 
-<p align="center">
-  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
-</p>
+## 📌 Live Preview
 
----
+> 🚀 [View the site here](https://rfluid.astervia.tech)
 
-<p align="center">
-  <img alt="screenshot" src="screenshot.png">
-</p>
+## ✨ Features
 
----
+- Clean, responsive layout
+- Smooth animated background
+- Pop-up profile picture with a quote
+- Custom icons for project links
+- Minimal dependencies for fast loading
 
-## 💡 About the project
+## 🧠 Projects Showcased
 
-This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://johnggli.github.io/linktree)
+- **Zaphenath**  
+  Smart contract protocol for secure, conditional data disclosure based on user inactivity.
 
-## 🚀 Getting started
+- **wacraft**  
+  Open-source implementation of the WhatsApp Cloud API.
 
-If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/johnggli/linktree/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
-```bash
-git clone https://github.com/johnggli/linktree
+- **Astervia GitHub**  
+  A collaborative org where I actively contribute and maintain projects.
+
+- **Personal GitHub & LinkedIn**  
+  Direct links to my profiles.
+
+## 🖌️ Customization
+
+All styles are modular and easily configurable via `style.css`.  
+You can adjust:
+
+- Colors and fonts
+- Link behavior and layout
+- Background animation (CSS-based or JavaScript-based)
+
+## 📁 Project Structure
+
+```plaintext
+/
+├── index.html        # Main HTML structure
+├── style.css         # Custom styles
+├── stars.css         # Custom animations
+├── /assets/          # (Optional) profile picture, icons, etc.
 ```
-- Once the files are on your machine, open the _linktree_ folder in [Visual Studio Code](https://code.visualstudio.com/).
-- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-- Change the profile image and texts in the `index.html` file.
-- Change the colors and fonts in the `style.css` file.
-- To change the background, go to the `style.css` file on line 17, uncomment the code snippet and change the url to whatever image you want.
-
-## 🤔 How to contribute
-
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m "feat: my new feature"`;
-- Push to your branch: `git push origin my-feature`.
-
-Once your pull request has been merged, you can delete your branch.
-
-## 📝 License
-
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
 ---
 
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
+## 🙏 Credits
+
+This project is based on the original template created by **[@johnggli](https://github.com/johnggli/linktree)**.  
+All styling and structural inspiration stems from their fantastic minimalist design.  
+🔗 [github.com/johnggli/linktree](https://github.com/johnggli/linktree)
+I also used [this codepen template](https://codepen.io/riley-pearce/pen/OJWPjZM) for background animations inspiration.
+
+---
+
+## 🛠️ License
+
+MIT — Free to use and modify.  
+Just make sure to credit the original authors (including johnggli) when appropriate.
+
+---
+
+σΔγ
