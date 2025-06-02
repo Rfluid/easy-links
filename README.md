@@ -54,6 +54,7 @@ You can adjust:
 This project is based on the original template created by **[@johnggli](https://github.com/johnggli/linktree)**.  
 All styling and structural inspiration stems from their fantastic minimalist design.  
 🔗 [github.com/johnggli/linktree](https://github.com/johnggli/linktree)
+
 I also used [this codepen template](https://codepen.io/riley-pearce/pen/OJWPjZM) for background animations inspiration.
 
 ---
